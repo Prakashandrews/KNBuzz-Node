@@ -1,1 +1,17 @@
-
+{
+  "name": "knbuzz_node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "PRAKASH M.S",
+  "license": "ISC",
+  "devDependencies": {
+    "mongodb": "^4.1.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "description": ""
+}
